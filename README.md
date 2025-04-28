@@ -6,7 +6,7 @@ A Spigot plugin that plays nyan cat sound effect to a player that dies on the se
 1. Download [PaperMC](https://api.papermc.io/v2/projects/paper/versions/1.21.4/builds/226/downloads/paper-1.21.4-226.jar)
 2. Create a folder and insert the installed .jar file into it
 3. Create a file called "run.bat" and insert following content into it:
-`java -Xmx1G -jar <filename of the file you downloaded file>.jar nogui
+`java -Xmx1G -jar <filename of the file you downloaded file>.jar nogui `<br>`
 PAUSE`
 4. Run run.bat, wait for a while until it says done or similar then close the window
 5. Download the [latest full version of the plugin](https://github.com/DRKocourek/NyanCatDeath/releases/tag/Full) and insert it into the newly created folder called `plugins`
