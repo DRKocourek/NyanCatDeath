@@ -1,0 +1,8 @@
+name: NyanCatRespawn
+version: 1.0.0
+author: drkocourek
+main: com.drkocourek.nyanCatRespawn.Main
+api-version:  1.21.4
+depend: []
+
+
