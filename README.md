@@ -31,5 +31,6 @@ Please report issues [here](https://github.com/DRKocourek/NyanCatDeath/issues/ne
 
 ## Support me
 View my [linktree](https://drkocourek.stream/linktree) for my social media
-You can also support me financially on Ko-Fi
+You can also support me financially on Ko-Fi 
+<br>
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E51F13U0)
