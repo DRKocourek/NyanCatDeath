@@ -28,3 +28,8 @@ resource-pack-sha1=dc6332d1811b20407a0c1c3c514376b7516a812c`
 ## Issues
 Please report issues [here](https://github.com/DRKocourek/NyanCatDeath/issues/new) **with label `bug` only for bugs and errors** use other tags appropriately. 
 **Wrongly tagged issues will propably be ignored!**
+
+## Support me
+View my [linktree](https://drkocourek.stream/linktree) for my social media
+You can also support me financially on Ko-Fi
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E51F13U0)
