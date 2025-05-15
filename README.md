@@ -2,7 +2,7 @@
 A Spigot plugin that plays nyan cat sound effect to a player that dies on the server with this plugin
 
 ## Installation
-
+## You can skip the following 4 steps if you already use PaperMC server
 1. Download [PaperMC](https://api.papermc.io/v2/projects/paper/versions/1.21.4/builds/226/downloads/paper-1.21.4-226.jar)
 2. Create a folder and insert the installed .jar file into it
 3. Create a file called "run.bat" and insert following content into it:
